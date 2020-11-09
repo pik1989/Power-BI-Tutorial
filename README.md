@@ -20,4 +20,8 @@ https://www.youtube.com/watch?v=Dryfm9VaEw4&t=56s
 ## Part 2: 
 https://www.youtube.com/watch?v=mAPcW_YDUKQ
 
+Below is a sample dashboard we created in our session :)
+
+Do watch both the parts to have a sound understanding on Power BI.
+
 ![diagram](images/Dashboard.jpeg)
