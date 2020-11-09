@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=Dryfm9VaEw4&t=56s
 ## Part 2: 
 https://www.youtube.com/watch?v=mAPcW_YDUKQ
 
-![diagram](images/Dashboard.png)
+![diagram](images/Dashboard.jpeg)
