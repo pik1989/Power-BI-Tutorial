@@ -15,7 +15,7 @@ Agenda:
 9. Build a Live Dashboard on a real life use case - Part 2
 
 ## Part 1: 
-https://www.youtube.com/watch?v=Dryfm9VaEw4&t=56s
+https://www.youtube.com/watch?v=Dryfm9VaEw4
 
 ## Part 2: 
 https://www.youtube.com/watch?v=mAPcW_YDUKQ
